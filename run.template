@@ -54,10 +54,10 @@ int main() {
 
 	}
 	if(allOK) {
-		std::cout << "All OK" << std::endl;
+		std::cout << "All tests passed" << std::endl;
 	}
 	else {
-		std::cout << "Some cases failed" << std::endl;
+		std::cout << "Some tests failed" << std::endl;
 	};
 	return 0;
 }
